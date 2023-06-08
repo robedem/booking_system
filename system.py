@@ -1,8 +1,3 @@
-import random
-import string
-
-
-
 class Ticket:
     def __init__(self, event, seat_number):
         self.event = event

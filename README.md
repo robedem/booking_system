@@ -21,8 +21,8 @@ The Event Ticket System is a Python program that allows users to browse and book
 
 ## Files
 
-- `event_system.py`: The main Python script containing the Event, Ticket, and Customer classes, as well as the program execution logic.
-- `admin_password.txt`: A text file that stores the admin login password. Create this file if it does not exist.
-- `events.txt`: A text file that stores the event data. Create this file if it does not exist.
+- event_system.py: The main Python script containing the Event, Ticket, and Customer classes, as well as the program execution logic.
+- admin_password.txt: A text file that stores the admin login password. Create this file if it does not exist.
+- events.txt: A text file that stores the event data. Create this file if it does not exist.
 
 

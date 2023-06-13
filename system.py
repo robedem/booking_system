@@ -69,8 +69,6 @@ def print_event_list(events):
         print(f"{i}. {event.name} - Venue: {event.venue}, Price: ${event.price}")
 
 
-
-
 # Example usage:
 event1 = Event("Concert", "Stadium", "2023-06-10", [1, 2, 3, 4, 5], 50)
 event2 = Event("Theater Show", "Theater", "2023-06-15", [6, 7, 8, 9, 10], 30)
